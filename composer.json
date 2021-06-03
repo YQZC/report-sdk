@@ -1,5 +1,5 @@
 {
-    "name": "report/php",
+    "name": "report111/php",
     "description": "PHP Client for bigData",
     "type": "library",
     "require": {
