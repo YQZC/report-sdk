@@ -3,7 +3,7 @@
     "description": "PHP Client for bigData",
     "type": "library",
     "require": {
-        "php": "5.5"
+        "php": ">=5.5"
     },
     "authors": [
         {
